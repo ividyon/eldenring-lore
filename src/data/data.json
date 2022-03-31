@@ -1,0 +1,51 @@
+{
+    "$schema": "./data.schema.json",
+    "data": [
+    {
+        "id": 1,
+        "title": "Radagon",
+        "body": "<strong>Radagon of the Golden Order</strong> is the Elden Lord consort of Marika after her exiling of Godfrey. He is strongly in favor of the Golden Order, going as far as to fight Marika for control of the Elden Ring in order to undo her shattering of it, and try to mend it."
+    },
+    {
+        "id": 2,
+        "title": "Marika",
+        "body": "Marika is the current vessel of the Elden Ring. She had wedded Godfrey, but her current consort is Radagon. She is a Numen, a race said to hail from a different world. Once an Empyrean, her loyal shadow is Maliketh. She is the one who shattered the Elden Ring and now fights over control of her body with Radagon, her other half, who attempts to mend the Ring."
+    },
+    {
+        "id": 3,
+        "title": "Radagon's Secret",
+        "body": "<p>\"You know, it's said that Lord Radagon harboured a secret... A famed sculptor of the Erdtree Capital was once summoned to render Lord Radagon's likeness in giant stature. When he glimpsed the skeleton in Radagon's closet. And as such, it's said the great statue harbours his secret too.\" - Miriel, Pastor of Vows</p><p>Upon using the Law of Regression incantation on the sculptor's statue, it is revealed that Radagon is indeed Marika.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Albinaurics",
+        "body": "Albinaurics are artificial lifeforms."
+    },
+    {
+        "id": 5,
+        "title": "Melina",
+        "body": "<p><strong>Melina</strong> is a mysterious girl who plays the role of Maiden for the Tarnished player character. She is the one who gifts the player with the horse Torrent. She has one closed eye over which a claw mark is painted.</p><p>Melina is unsure of her purpose and say that she was sent by \"her mother in the erdtree\" to do something, but is unsure what. Over the course of the plot, she determines burning herself with the Fell Flame to be her purpose, in order to burn the Erdtree and allow the player passage into the Erdtree. In combat, Melina uses the same moveset as a Black Knife Assassin, along with an Erdtree recolor on their weapon.</p>"
+    },
+    {
+        "id": 6,
+        "title": "Gloam Eyed Queen",
+        "body": "The Gloam Eyed Queen is the former leader of the Godskin Nobles, a holder of Destined Death. She was involved with Marika during her ascension to godhood, and was defeated by Maliketh."
+    },
+    {
+        "id": 7,
+        "title": "Ranni the Witch",
+        "body": "Ranni is a self-titled Snow Witch and the daughter of Radagon and Rennala. She has been chosen as an Empyrean by the Two Fingers, but has rejected that fate, stealing a fragment of the Rune of Death to kill her mortal body with. Since then, her soul inhabits a doll. If the player follows her storyline, she ascends to godhood and calls in an Age of Stars."
+    },
+    {
+        "id": 8,
+        "title": "Melina = Gloam Eyed Queen",
+        "body": "It is theorized that Melina is some form of aspect of the Gloam Eyed Queen. She claims to be \"burned and bodiless\", which lines up with the Gloam Eyed Queen's death to Maliketh, who wields a fiery Black Blade. However, she is also born to \"her mother in the Erdtree\" and is seen using Erdtree magics against Morgott, which makes that link rather strenuous."
+    },
+    {
+        "id": 9,
+        "title": "Melina = Ranni",
+        "body": "It is theorized that Melina is Ranni. The ephemeral soul image next to Ranni's doll body is connected to Melina, as they respectively share a closed eye on opposing ends, and the ghostly form besides Ranni is alleged to look similar to Melina. However, as Melina and Ranni thoroughly oppose each other, this is unlikely."
+    }
+
+]
+}
