@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/eldenring-lore/static/css/main.694bbe45.css",
-    "main.js": "/eldenring-lore/static/js/main.472e6e32.js",
-    "static/media/parchment.jpg": "/eldenring-lore/static/media/parchment.6495e75f0d9c71dbadd9.jpg",
+    "main.css": "/eldenring-lore/static/css/main.81d599ba.css",
+    "main.js": "/eldenring-lore/static/js/main.03fe4b4a.js",
+    "static/media/parchment2.jpg": "/eldenring-lore/static/media/parchment2.4f9c785585c46e176437.jpg",
+    "static/media/sellen.png": "/eldenring-lore/static/media/sellen.c490d2ae7429bdc5f2bf.png",
     "index.html": "/eldenring-lore/index.html",
-    "main.694bbe45.css.map": "/eldenring-lore/static/css/main.694bbe45.css.map",
-    "main.472e6e32.js.map": "/eldenring-lore/static/js/main.472e6e32.js.map"
+    "main.81d599ba.css.map": "/eldenring-lore/static/css/main.81d599ba.css.map",
+    "main.03fe4b4a.js.map": "/eldenring-lore/static/js/main.03fe4b4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.694bbe45.css",
-    "static/js/main.472e6e32.js"
+    "static/css/main.81d599ba.css",
+    "static/js/main.03fe4b4a.js"
   ]
 }
